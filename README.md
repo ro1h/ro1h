@@ -82,7 +82,10 @@ months later, and shipping instead of endlessly polishing.
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ro1h&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
+<a href="https://github.com/Ro1h">
+  <img src="https://github.pumbas.net/api/contributions/Ro1h?colour=8B5CF6&bgColour=0D1117&dotColour=FFFFFF" width="100%" alt="Ro1h's GitHub activity graph" />
+</a>
+
 
 </div>
 
