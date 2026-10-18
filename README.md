@@ -1,220 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:4F46E5,75:2563EB,100:06B6D4&height=220&section=header&text=Rowan&fontSize=82&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20things%20for%20the%20web&descAlignY=55&descSize=18" width="100%" alt="Rowan Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,35:4F46E5,70:7C3AED,100:06B6D4&height=220&section=header&text=ROWAN&fontSize=74&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Developer%20%2F%20Builder%20%2F%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=780&lines=Building+software+that+feels+simple%2C+fast+and+useful.;Full-stack+development+%E2%80%A2+SaaS+products+%E2%80%A2+Automation.;Build.+Ship.+Learn.+Repeat." alt="Typing SVG" />
+
+<br/><br/>
 
 <a href="https://github.com/Ro1h">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&repeat=true&width=720&height=45&lines=TypeScript+%E2%80%A2+JavaScript+%E2%80%A2+PHP+%E2%80%A2+Python;Building+modern+web+products;Clean+code.+Fast+interfaces.+Real+products." alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/GitHub-Ro1h-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub" />
 </a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=Ro1h&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&labelColor=0B1020" alt="Profile Views" />
-
+<a href="https://discord.com/users/1364998854537384077">
+  <img src="https://img.shields.io/badge/Discord-ro1hh-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1020" alt="Discord" />
+</a>
 <a href="https://github.com/Ro1h?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ro1h?style=for-the-badge&color=2563EB&labelColor=0B1020&logo=github&logoColor=white&label=FOLLOWERS" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/Ro1h?style=for-the-badge&color=7C3AED&labelColor=0B1020&logo=github&logoColor=white&label=Followers" alt="Followers" />
 </a>
 
 </div>
 
-<br />
+---
 
-## <samp>👋 About me</samp>
+## 01 / ABOUT
 
-```ts id="mz2n14"
-const rowan = {
-  role: "Full-Stack Developer",
+I'm Rowan — a full-stack developer who likes taking an idea from **“what if?”** to **“it's live.”**
 
-  languages: [
-    "TypeScript",
-    "JavaScript",
-    "PHP",
-    "Python",
-  ],
+I build web applications and experiment with SaaS products, focusing on:
+- responsive interfaces
+- practical automation
+- clear UX
+- maintainable code
 
-  currentlyBuilding: "Modern web products & SaaS",
+My approach is simple:
 
-  interests: [
-    "SaaS",
-    "Developer Tools",
-    "Automation",
-    "Clean UI",
-  ],
+> **Make it work. Make it useful. Make it better.**
 
-  principles: [
-    "Keep it simple",
-    "Build fast",
-    "Write maintainable code",
-    "Ship useful products",
-  ],
+---
 
-  contact: "Discord → ro1hh",
-} as const;
-```
-
-I enjoy turning ideas into real products.
-
-My focus is mostly **full-stack web development**, with an emphasis on fast interfaces,
-clean architecture and software that stays maintainable as it grows.
-
-I prefer shipping something useful over endlessly polishing something nobody uses.
-
-<br />
-
-## <samp>🚀 Currently building</samp>
+## 02 / WHAT I'M BUILDING
 
 <table>
 <tr>
-<td width="65" align="center">
+<td width="50%" valign="top">
 
-### 🟣
+### ◈ Modern CRM
 
-</td>
+A CRM concept designed around **clarity, speed and less busywork**.
 
-<td>
+**Focus**
+- Customer management
+- Pipelines
+- Automation
+- Dashboards
 
-### Modern CRM Platform
-
-A modern CRM focused on **speed, simplicity and automation**.
-
-Customer management, pipelines, dashboards and workflows — without the unnecessary
-complexity found in traditional enterprise software.
-
-</td>
-</tr>
-
-<tr>
-<td width="65" align="center">
-
-### 🔵
+**Status**
+`In Development`
 
 </td>
+<td width="50%" valign="top">
 
-<td>
+### ◈ SaaS Experiments
 
-### SaaS & Web Products
+Exploring small, focused products that solve everyday problems.
 
-Experimenting with software ideas, internal tools and web applications that solve
-real problems and have the potential to become scalable products.
+**Focus**
+- Web apps
+- Internal tools
+- APIs
+- Automation ideas
 
-</td>
-</tr>
-
-<tr>
-<td width="65" align="center">
-
-### 🩵
-
-</td>
-
-<td>
-
-### Improving every release
-
-Going deeper into **TypeScript, backend architecture, APIs, databases and scalable
-application design** while continuously building real projects.
+**Status**
+`Exploring & Building`
 
 </td>
 </tr>
 </table>
 
-<br />
+---
 
-## <samp>🛠 Tech stack</samp>
-
-<div align="center">
+## 03 / TOOLBOX
 
 ### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,html,css&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=ts,js,php,py,html,css&theme=dark" alt="Languages" />
-
-<br />
-
-### Frameworks & Technologies
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,mysql,docker&theme=dark" alt="Frameworks and Technologies" />
-
-<br />
+### Web & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mysql,docker&theme=dark" />
+</p>
 
 ### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Development Tools" />
+---
 
-</div>
+## 04 / PROJECTS
 
-<br />
+Most of my current work is in **private repositories** while I build and test ideas.
 
-## <samp>📊 GitHub activity</samp>
+Public demos, source code and case studies will appear here when they’re ready to share.
 
-<div align="center">
+I'd rather show a **working product** than a long list of promises.
 
-<a href="https://github.com/Ro1h">
-  <img
-    src="https://github.pumbas.net/api/contributions/Ro1h?colour=818CF8&bgColour=0B1020&dotColour=22D3EE"
-    width="100%"
-    alt="Rowan GitHub Activity"
-  />
-</a>
+---
 
-</div>
-
-<br />
-
-## <samp>💻 Featured projects</samp>
+## 05 / GITHUB ACTIVITY
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
-
-<br />
-
-### Something is cooking. 👨‍💻
-
-Most of my current work is still being built in private repositories.
-
-The first public projects are on the way.
-
-**Build → Ship → Improve → Repeat**
-
-<br />
-
-</td>
-</tr>
-</table>
+<img src="https://github.pumbas.net/api/contributions/Ro1h?colour=A78BFA&bgColour=0B1020&dotColour=22D3EE" width="100%" alt="GitHub activity graph" />
 
 </div>
 
-<br />
+---
 
-## <samp>🤝 Connect</samp>
+## 06 / GET IN TOUCH
 
-<div align="center">
+If you want to discuss an idea, build something together or just talk tech:
 
-<a href="https://discord.com/users/1364998854537384077">
-  <img src="https://img.shields.io/badge/Discord-ro1hh-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1020" height="38" alt="Discord" />
-</a>
+- **Discord:** `@ro1hh`
+- **GitHub:** [`@Ro1h`](https://github.com/Ro1h)
 
-<a href="https://github.com/Ro1h">
-  <img src="https://img.shields.io/badge/GitHub-Ro1h-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" height="38" alt="GitHub" />
-</a>
-
-<br /><br />
-
-<samp>
-Fastest way to reach me → <b>Discord @ro1hh</b>
-</samp>
-
-</div>
-
-<br /><br />
+---
 
 <div align="center">
 
-### <samp>Build things. Ship them. Make the next version better.</samp>
+### BUILD → SHIP → LEARN → REPEAT
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,30:2563EB,65:4F46E5,100:7C3AED&height=130&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,30:2563EB,65:7C3AED,100:06B6D4&height=120&section=footer" width="100%" />
 
 </div>
