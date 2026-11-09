@@ -27,13 +27,13 @@ It's still private while I build it out.
 
 <img alt="What I've built" src="./assets/section-experience.svg" width="100%">
 
-<img alt="FiveM and GTA RP frameworks, Discord bots, SaaS and web apps, websites, realtime and audio platforms, OBS and Chrome tooling" src="./assets/experience-dark.svg" width="100%">
+<img alt="FiveM and GTA RP scripts, Discord bots, SaaS and web apps, websites, OBS and Chrome tooling" src="./assets/experience-dark.svg" width="100%">
 
 <br>
 
 <img alt="What I build with" src="./assets/section-stack.svg" width="100%">
 
-<img alt="Stack: TypeScript, JavaScript, PHP, Python, React, Tailwind, Vite, Node.js, MongoDB, MySQL, Socket.io, Docker, Caddy, Git, Vercel" src="./assets/stack-dark.svg" width="100%">
+<img alt="Stack: TypeScript, JavaScript, Lua, PHP, Python, React, Next.js, Tailwind, Vite, Pixi.js, Node.js, Fastify, Socket.io, Discord.js, MongoDB, MySQL, PostgreSQL, Supabase, Prisma, Redis, Docker, Caddy, Netlify, Vercel, Git" src="./assets/stack-dark.svg" width="100%">
 
 <br>
 <br>
