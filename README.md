@@ -26,19 +26,7 @@ It's still private while I build it out.
 
 ## Stack
 
-<img src="https://img.shields.io/badge/TypeScript-0F1A30?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-0F1A30?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/PHP-0F1A30?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
-<img src="https://img.shields.io/badge/Python-0F1A30?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/React-0F1A30?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Node.js-0F1A30?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-<img src="https://img.shields.io/badge/MongoDB-0F1A30?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
-<img src="https://img.shields.io/badge/MySQL-0F1A30?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-<img src="https://img.shields.io/badge/Socket.io-0F1A30?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
-<img src="https://img.shields.io/badge/Tailwind-0F1A30?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind">
-<img src="https://img.shields.io/badge/Docker-0F1A30?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/Vite-0F1A30?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
-<img src="https://img.shields.io/badge/Git-0F1A30?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+<img alt="Stack: TypeScript, JavaScript, PHP, Python, React, Tailwind, Vite, Node.js, MongoDB, MySQL, Socket.io, Docker, Caddy, Git, Vercel" src="./assets/stack-dark.svg" width="100%">
 
 <br>
 <br>
