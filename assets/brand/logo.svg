@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" fill="none">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+      <stop offset="0" stop-color="#132447"/>
+      <stop offset=".55" stop-color="#0B1426"/>
+      <stop offset="1" stop-color="#050B17"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#4D8BFF" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#4D8BFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#FFFFFF" fill-opacity=".07"/>
+    </pattern>
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#C9D7F2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <rect width="1024" height="1024" fill="url(#dots)"/>
+  <circle cx="512" cy="512" r="420" fill="url(#glow)"/>
+
+  <!-- rings -->
+  <circle cx="512" cy="512" r="380" stroke="#FFFFFF" stroke-opacity=".07" stroke-width="3"/>
+  <circle cx="512" cy="512" r="330" stroke="#FFFFFF" stroke-opacity=".16" stroke-width="5" stroke-dasharray="2 18" stroke-linecap="round"/>
+  <path d="M512 132a380 380 0 0 1 380 380" stroke="#4D8BFF" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="892" cy="512" r="14" fill="#4D8BFF"/>
+
+  <!-- R. -->
+  <g transform="translate(-50 0)">
+    <path fill="url(#ink)" fill-rule="evenodd" d="M330 272H560A140 140 0 0 1 560 552H534L700 752H598L436 552H412V752H330ZM412 346V478H556A66 66 0 0 0 556 346Z"/>
+    <circle cx="772" cy="712" r="40" fill="#4D8BFF"/>
+  </g>
+</svg>
