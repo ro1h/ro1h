@@ -33,7 +33,7 @@
   </defs>
 
   <g clip-path="url(#card)">
-    <rect width="1200" height="380" fill="#0B0B0C"/>
+    <rect width="1200" height="380" fill="#08101F"/>
     <rect width="1200" height="380" fill="url(#dots)" mask="url(#m)"/>
     <circle cx="1040" cy="190" r="220" fill="url(#glow)"/>
 
@@ -42,8 +42,8 @@
       <circle cx="1040" cy="190" r="118" stroke="#FFFFFF" stroke-opacity=".10"/>
       <g class="spin"><circle cx="1040" cy="190" r="92" stroke="#FFFFFF" stroke-opacity=".28" stroke-dasharray="2 10" stroke-linecap="round" stroke-width="2"/></g>
       <g class="spin-r"><path d="M1040 124a66 66 0 0 1 66 66" stroke="#4D8BFF" stroke-width="2.5" stroke-linecap="round"/><circle cx="1040" cy="190" r="66" stroke="#FFFFFF" stroke-opacity=".12"/></g>
-      <rect x="1018" y="168" width="44" height="44" rx="12" fill="#151517" stroke="#FFFFFF" stroke-opacity=".14"/>
-      <path d="M1032 198v-16h9a5 5 0 0 1 0 10h-9m9 0 6 6" stroke="#F5F5F5" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="1018" y="168" width="44" height="44" rx="12" fill="#0F1A30" stroke="#FFFFFF" stroke-opacity=".14"/>
+      <path d="M1032 198v-16h9a5 5 0 0 1 0 10h-9m9 0 6 6" stroke="#EEF2FA" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
       <g class="orbit"><circle cx="1040" cy="72" r="4.5" fill="#4D8BFF"/></g>
     </g>
 
@@ -51,18 +51,18 @@
     <g class="in d1">
       <circle cx="78" cy="86" r="4" fill="#4D8BFF" class="ping"/>
       <circle cx="78" cy="86" r="4" fill="#4D8BFF"/>
-      <text x="94" y="91" class="mono" font-size="13" letter-spacing="2.2" fill="#A1A1AA">CURRENTLY BUILDING A CRM</text>
+      <text x="94" y="91" class="mono" font-size="13" letter-spacing="2.2" fill="#8B9BB8">CURRENTLY BUILDING ASYQA</text>
     </g>
 
     <!-- name -->
-    <text x="68" y="214" class="sans in d2" font-size="124" font-weight="700" letter-spacing="-6" fill="#F5F5F5">Rowan<tspan fill="#4D8BFF">.</tspan></text>
+    <text x="68" y="214" class="sans in d2" font-size="124" font-weight="700" letter-spacing="-6" fill="#EEF2FA">Rowan<tspan fill="#4D8BFF">.</tspan></text>
 
     <!-- tagline -->
-    <text x="74" y="262" class="sans in d3" font-size="24" fill="#A1A1AA">Full-stack dev. I build <tspan fill="#F5F5F5">web apps, SaaS things</tspan> and the tools behind them.</text>
+    <text x="74" y="262" class="sans in d3" font-size="24" fill="#8B9BB8">Full-stack dev. I build <tspan fill="#EEF2FA">web apps, SaaS things</tspan> and the tools behind them.</text>
 
     <!-- meta -->
     <g class="in d4">
-      <text x="74" y="318" class="mono" font-size="13" letter-spacing="1.4" fill="#71717A">WEB APPS <tspan fill="#4D8BFF">/</tspan> SAAS <tspan fill="#4D8BFF">/</tspan> AUTOMATION <tspan fill="#4D8BFF">/</tspan> NL <tspan fill="#4D8BFF" class="cursor">▌</tspan></text>
+      <text x="74" y="318" class="mono" font-size="13" letter-spacing="1.4" fill="#5B6B8A">WEB APPS <tspan fill="#4D8BFF">/</tspan> SAAS <tspan fill="#4D8BFF">/</tspan> AUTOMATION <tspan fill="#4D8BFF">/</tspan> NL <tspan fill="#4D8BFF" class="cursor">▌</tspan></text>
     </g>
   </g>
   <rect x=".5" y=".5" width="1199" height="379" rx="23.5" stroke="#FFFFFF" stroke-opacity=".08"/>
