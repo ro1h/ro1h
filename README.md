@@ -34,14 +34,6 @@ Next up is the **Asyqa CRM**: a multi-tenant CRM that works for 18 different ind
 
 <br>
 
-<img alt="Sites I've made" src="./assets/section-sites.svg" width="100%">
-
-<a href="https://vrolijkekostermoordrecht.nl/"><img alt="Vrolijke Koster: website for a Dutch party singer, with agenda, gift cards and his own admin panel" src="./assets/live-vrolijkekoster.jpg" width="49%"></a>
-
-**[Vrolijke Koster](https://vrolijkekostermoordrecht.nl/)**, a site for a Dutch party singer. Agenda, photos, videos, reviews, gift cards and WhatsApp booking, plus an admin panel so he can run it all himself.
-
-<br>
-
 <img alt="What I've built" src="./assets/section-experience.svg" width="100%">
 
 <img alt="FiveM and GTA RP scripts, Discord bots, SaaS and web apps, websites, OBS tools and desktop apps" src="./assets/experience-dark.svg" width="100%">
