@@ -14,7 +14,8 @@
 
 <br>
 
-## Asyqa
+<a name="asyqa"></a>
+<img alt="What I'm building" src="./assets/section-building.svg" width="100%">
 
 <img alt="Asyqa: one CRM for eighteen industries. Multi-tenant, with a customer portal, admin panel, team chat and mandatory 2FA." src="./assets/asyqa-dark.svg" width="100%">
 
@@ -24,12 +25,14 @@ It's still private while I build it out.
 
 <br>
 
-## Stack
+<img alt="What I build with" src="./assets/section-stack.svg" width="100%">
 
 <img alt="Stack: TypeScript, JavaScript, PHP, Python, React, Tailwind, Vite, Node.js, MongoDB, MySQL, Socket.io, Docker, Caddy, Git, Vercel" src="./assets/stack-dark.svg" width="100%">
 
 <br>
 <br>
+
+<img alt="Recent activity" src="./assets/section-activity.svg" width="100%">
 
 <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ro1h/ro1h/output/snake-dark.svg" width="100%">
 

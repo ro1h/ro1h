@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="60" viewBox="0 0 1200 60" fill="none">
+<style>.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}.ln{stroke-dasharray:1000;animation:draw 1.6s .2s cubic-bezier(.4,0,.2,1) both}.in{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}.ping{transform-box:fill-box;transform-origin:center;animation:ping 2.4s cubic-bezier(0,0,.2,1) infinite}@keyframes draw{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}@keyframes rise{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}@keyframes ping{0%{transform:scale(1);opacity:.7}80%,100%{transform:scale(3);opacity:0}}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#4D8BFF" stop-opacity=".7"/><stop offset=".35" stop-color="#1E2A45"/><stop offset="1" stop-color="#1E2A45" stop-opacity="0"/></linearGradient></defs>
+<g class="in"><circle cx="8" cy="30" r="4" fill="#4D8BFF" class="ping"/><circle cx="8" cy="30" r="4" fill="#4D8BFF"/>
+<text x="26" y="35" class="mono" font-size="15" font-weight="600" letter-spacing="3" fill="#EEF2FA">WHAT I'M BUILDING</text></g>
+<line x1="257.4" y1="30.5" x2="1200" y2="30.5" stroke="url(#l)" stroke-width="1.5" class="ln"/>
+</svg>
