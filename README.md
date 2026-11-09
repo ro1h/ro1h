@@ -27,7 +27,7 @@ It's still private while I build it out.
 
 <img alt="What I've built" src="./assets/section-experience.svg" width="100%">
 
-<img alt="FiveM and GTA RP scripts, Discord bots, SaaS and web apps, websites, OBS and Chrome tooling" src="./assets/experience-dark.svg" width="100%">
+<img alt="FiveM and GTA RP scripts, Discord bots, SaaS and web apps, websites, OBS tools and desktop apps" src="./assets/experience-dark.svg" width="100%">
 
 <br>
 
