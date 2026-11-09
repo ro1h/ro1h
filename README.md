@@ -8,7 +8,7 @@
 
 <p align="center">
   Hey, I'm Rowan. Developer from the Netherlands.<br>
-  I mostly build web apps: dashboards, back offices and the occasional SaaS.<br>
+  I build web apps, SaaS, FiveM frameworks, Discord bots and whatever else I need.<br>
   Right now that means one big thing, a CRM called Asyqa.
 </p>
 
@@ -22,6 +22,12 @@
 Asyqa is a multi-tenant CRM that works for 18 different industries, from car dealers to schools, without being 18 different apps. Every account gets a customer portal with contacts, calendar, tickets, invoices and team chat. Security isn't optional: 2FA is required for everyone, passkeys are supported.
 
 It's still private while I build it out.
+
+<br>
+
+<img alt="What I've built" src="./assets/section-experience.svg" width="100%">
+
+<img alt="FiveM and GTA RP frameworks, Discord bots, SaaS and web apps, websites, realtime and audio platforms, OBS and Chrome tooling" src="./assets/experience-dark.svg" width="100%">
 
 <br>
 
