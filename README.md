@@ -13,6 +13,13 @@
 
 <br>
 
+<img alt="How I got here" src="./assets/section-story.svg" width="100%">
+
+<img alt="My story in four chapters: it started with FiveM scripts, then came Discord bots, then real websites with admin panels, and now my own products, Asyqa and HoloAtlas, with the Asyqa CRM next." src="./assets/story-dark.svg" width="100%">
+
+<br>
+<br>
+
 <a name="asyqa"></a>
 <img alt="What I'm building" src="./assets/section-building.svg" width="100%">
 
