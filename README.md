@@ -38,8 +38,4 @@ It's still private while I build it out.
 <br>
 <br>
 
-<img alt="Recent activity" src="./assets/section-activity.svg" width="100%">
-
-<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ro1h/ro1h/output/snake-dark.svg" width="100%">
-
 <p align="center"><sub>Got a question or an idea? Find me on <a href="https://discord.com/users/1364998854537384077">Discord</a>.</sub></p>
