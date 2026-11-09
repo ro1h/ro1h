@@ -9,7 +9,7 @@
 <p align="center">
   Hey, I'm Rowan. Developer from the Netherlands.<br>
   I build web apps, SaaS, FiveM frameworks, Discord bots and whatever else I need.<br>
-  Right now that means one big thing, a CRM called Asyqa.
+  Right now: <a href="https://asyqa.com/">Asyqa</a> and <a href="https://holoatlas.eu/">HoloAtlas</a> are live, and the Asyqa CRM is next.
 </p>
 
 <br>
@@ -17,11 +17,28 @@
 <a name="asyqa"></a>
 <img alt="What I'm building" src="./assets/section-building.svg" width="100%">
 
-<img alt="Asyqa: one CRM for eighteen industries. Multi-tenant, with a customer portal, admin panel, team chat and mandatory 2FA." src="./assets/asyqa-dark.svg" width="100%">
+<p>
+  <a href="https://asyqa.com/"><img alt="Asyqa, live at asyqa.com: link-in-bio that feels like your own website" src="./assets/live-asyqa.jpg" width="49%"></a>
+  <a href="https://holoatlas.eu/"><img alt="HoloAtlas, live at holoatlas.eu: Pokémon card prices, scanner and portfolio" src="./assets/live-holoatlas.jpg" width="49%"></a>
+</p>
 
-Asyqa is a multi-tenant CRM that works for 18 different industries, from car dealers to schools, without being 18 different apps. Every account gets a customer portal with contacts, calendar, tickets, invoices and team chat. Security isn't optional: 2FA is required for everyone, passkeys are supported.
+**[Asyqa](https://asyqa.com/)** is link-in-bio, but it feels like your own website. Connect YouTube once and your newest upload shows up by itself, pick one of five templates, and get analytics without fake numbers.
 
-It's still private while I build it out.
+**[HoloAtlas](https://holoatlas.eu/)** is for Pokémon card collectors: every set and every card with live market prices, a card scanner, restock alerts and a portfolio for your collection.
+
+<br>
+
+<img alt="Asyqa CRM: one CRM for eighteen industries. Multi-tenant, with a customer portal, admin panel, team chat and mandatory 2FA." src="./assets/asyqa-dark.svg" width="100%">
+
+Next up is the **Asyqa CRM**: a multi-tenant CRM that works for 18 different industries, from car dealers to schools, without being 18 different apps. Every account gets a customer portal with contacts, calendar, tickets, invoices and team chat. 2FA is required for everyone, passkeys are supported. Still private while I build it out.
+
+<br>
+
+<img alt="Sites I've made" src="./assets/section-sites.svg" width="100%">
+
+<a href="https://vrolijkekostermoordrecht.nl/"><img alt="Vrolijke Koster: website for a Dutch party singer, with agenda, gift cards and his own admin panel" src="./assets/live-vrolijkekoster.jpg" width="49%"></a>
+
+**[Vrolijke Koster](https://vrolijkekostermoordrecht.nl/)**, a site for a Dutch party singer. Agenda, photos, videos, reviews, gift cards and WhatsApp booking, plus an admin panel so he can run it all himself.
 
 <br>
 
